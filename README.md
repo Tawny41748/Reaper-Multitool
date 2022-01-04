@@ -41,23 +41,11 @@ Pasos para instalar:
 Tutorial de YT:
 
 
+
 Si tines alguna duda escribeme a mi discord Tawny#1140 o entra a mi servidor y pregunta ahi https://discord.gg/7NZFtxjQdt .
+
 
 
 Queda estictamente PROHIBIDO modificar cualquier archivo de los que se proporcionan aqui.
 
 NOTA: El archivo esa encriptado y cualquier intento de desencriptar el archivo me notificara desde que direccion ip se realizo.
-
-
-English:
-Reaper Multitool is a simple tool mainly for doxing, it also includes other functions that we will mention later.
-Funtions:
-Steps to install:
-1. Download the zip
-2. Extract the ¨ReaperTool¨ file
-3. run the file "RUNTHIS"
-/ YT Tutorial
-If you have any questions write to my discord Tawny # 1140 or enter my server and ask there https://discord.gg/7NZFtxjQdt.
-It is strictly FORBIDDEN to modify any of the files provided here.
-NOTE: The file is encrypted and any attempt to decrypt the file will notify me from which IP address it was made.
-
