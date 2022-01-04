@@ -1,8 +1,6 @@
 Reaper Multitool es una herramienta sencilla principalmente para doxxeo, tambien incluye otras funciones que mencionaremos mas adelante.
-Reaper Multitool is a simple tool mainly for doxing, it also includes other functions that we will mention later.
 
 Funciones:
-Funtions:
 
 1. Pinger                                  
 2. Ip Stresser                     
@@ -33,26 +31,33 @@ Funtions:
 ![image](https://user-images.githubusercontent.com/84944997/148118445-e91d6a9e-6df9-44bf-bac2-2cf8b3151cff.png)
 
 Pasos para instalar:
-Steps to install:
 
 1. Descargar el ZIP
-1. Download the zip
 
 2. Extraer el archivo ¨ReaperTool¨
-2. Extract the ¨ReaperTool¨ file
 
 3. Ejecutar el archivo "RUNTHIS"
-3. run the file "RUNTHIS"
 
-Tutorial de YT/ YT Tutorial:
+Tutorial de YT:
 
 
 Si tines alguna duda escribeme a mi discord Tawny#1140 o entra a mi servidor y pregunta ahi https://discord.gg/7NZFtxjQdt .
-If you have any questions write to my discord Tawny # 1140 or enter my server and ask there https://discord.gg/7NZFtxjQdt.
 
 
 Queda estictamente PROHIBIDO modificar cualquier archivo de los que se proporcionan aqui.
-It is strictly FORBIDDEN to modify any of the files provided here.
 
 NOTA: El archivo esa encriptado y cualquier intento de desencriptar el archivo me notificara desde que direccion ip se realizo.
+
+
+English:
+Reaper Multitool is a simple tool mainly for doxing, it also includes other functions that we will mention later.
+Funtions:
+Steps to install:
+1. Download the zip
+2. Extract the ¨ReaperTool¨ file
+3. run the file "RUNTHIS"
+/ YT Tutorial
+If you have any questions write to my discord Tawny # 1140 or enter my server and ask there https://discord.gg/7NZFtxjQdt.
+It is strictly FORBIDDEN to modify any of the files provided here.
 NOTE: The file is encrypted and any attempt to decrypt the file will notify me from which IP address it was made.
+
