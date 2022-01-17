@@ -42,7 +42,7 @@ Tutorial de YT:
 
 
 
-Si tines alguna duda escribeme a mi discord Tawny#1140 o entra a mi servidor y pregunta ahi https://discord.gg/7NZFtxjQdt .
+Si tines alguna duda escribeme a mi discord Tawny#1140 o entra a mi servidor y pregunta ahi https://discord.gg/YSaNHrmS4f .
 
 
 
